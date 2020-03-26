@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://villagerpimin.github.io</id>
     <title>Pimin&apos;s Blog</title>
-    <updated>2020-03-26T05:52:58.436Z</updated>
+    <updated>2020-03-26T06:12:14.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://villagerpimin.github.io"/>
     <link rel="self" href="https://villagerpimin.github.io/atom.xml"/>
     <logo>https://villagerpimin.github.io/images/avatar.png</logo>
     <icon>https://villagerpimin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pimin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[我 承认自己不够优秀]]></title>
+        <id>https://villagerpimin.github.io/post/wo-cheng-ren-zi-ji-bu-gou-you-xiu/</id>
+        <link href="https://villagerpimin.github.io/post/wo-cheng-ren-zi-ji-bu-gou-you-xiu/">
+        </link>
+        <updated>2020-03-26T05:54:36.000Z</updated>
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=260 height=86 src="//music.163.com/outchain/player?type=2&id=571339489&auto=0&height=66"></iframe>
+七秒钟的记忆
+让我学会就忘
+以至于 闹了很多笑话
+也许是因为受到的打击多了
+相对以前更加感性了
+<p>尝试过改变自己 尝试过让自己成长<br>
+我可以更好的展示自己<br>
+说的更明白些 还是害怕批评和别人的不满意</p>
+<p>每次遇到别人问我问题 我就很尴尬<br>
+我真不知道 我能说我忘记了吗<br>
+在学习这方面我是属鱼的 七秒钟的记忆<br>
+具体 我也不知道自己学了什么<br>
+混到现在 我都觉的很不可思议</p>
+<p>写这篇文章的原因<br>
+是我抄的<br>
+我太无聊了</p>
+]]></content>
+    </entry>
 </feed>
