@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://villagerpimin.github.io</id>
     <title>Pimin&apos;s Blog</title>
-    <updated>2020-04-03T06:45:10.144Z</updated>
+    <updated>2020-04-03T08:16:39.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://villagerpimin.github.io"/>
     <link rel="self" href="https://villagerpimin.github.io/atom.xml"/>
     <logo>https://villagerpimin.github.io/images/avatar.png</logo>
     <icon>https://villagerpimin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pimin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[PC自动清理内存]]></title>
+        <id>https://villagerpimin.github.io/post/pcmenory-clean/</id>
+        <link href="https://villagerpimin.github.io/post/pcmenory-clean/">
+        </link>
+        <updated>2020-04-03T07:23:44.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>软件适合内存8g或以下的电脑</p>
+</blockquote>
+<h2 id="软件描述"><strong>软件描述</strong></h2>
+<p>Mem Reduct是一款轻量级的内存管理程序，它可以用来监控和清理系统内存。该程序使用了未记录的内部系统功能（Native API）来清除系统缓存（系统工作集，工作集，备用页面列表，修改后的页面列表），每次清理可释放10-50％的无用缓存。软件可以设置中文。Git地址：<a href="https://github.com/henrypp/memreduct">点我进入</a></p>
+<h2 id="软件下载"><strong>软件下载</strong></h2>
+<p><a href="https://github.com/henrypp/memreduct/releases">Github</a> | <a href="https://github.com/henrypp/memreduct/releases/download/v.3.3.5/memreduct-3.3.5-setup.exe">直链下载(v3.3.5)</a> | <a href="https://pan.baidu.com/s/1jcjiDJ7-c5VYXdMFUtXUMw">百度云 提取码t2gb</a></p>
+<h2 id="软件截图"><strong>软件截图</strong></h2>
+<p><img src="file://C:/Users/86188/Documents/Gridea/post-images/1585900428715.png" width=350px; height=400px;><img src="file://C:/Users/86188/Documents/Gridea/post-images/1585900869499.png" width=400px; height=350px;></p>
+<h3 id="注意为了正常工作请赋予管理员权限">注意：为了正常工作，请赋予管理员权限</h3>
+]]></content>
+    </entry>
 </feed>
