@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://villagerpimin.github.io</id>
     <title>Pimin&apos;s Blog</title>
-    <updated>2020-04-03T14:13:05.923Z</updated>
+    <updated>2020-06-23T15:02:31.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://villagerpimin.github.io"/>
     <link rel="self" href="https://villagerpimin.github.io/atom.xml"/>
     <logo>https://villagerpimin.github.io/images/avatar.png</logo>
     <icon>https://villagerpimin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pimin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Github Pages搭建属于自己的网页]]></title>
+        <id>https://villagerpimin.github.io/post/blog-class/</id>
+        <link href="https://villagerpimin.github.io/post/blog-class/">
+        </link>
+        <updated>2020-06-23T15:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>文档转自sspai</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PC自动清理内存]]></title>
         <id>https://villagerpimin.github.io/post/pcmenory-clean/</id>
