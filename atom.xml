@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://villagerpimin.github.io</id>
     <title>Pimin&apos;s Blog</title>
-    <updated>2020-06-23T15:06:36.407Z</updated>
+    <updated>2020-06-23T15:10:30.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://villagerpimin.github.io"/>
     <link rel="self" href="https://villagerpimin.github.io/atom.xml"/>
@@ -18,6 +18,17 @@
         <content type="html"><![CDATA[<blockquote>
 <p>文档转自sspai</p>
 </blockquote>
+<h1 id="为什么使用github-pages">为什么使用Github Pages</h1>
+<p>如果你把他作为一个轻量级的个人博客服务，GitHub Pages 相较 WordPress 之类的建站服务有什么优势呢？</p>
+<ul>
+<li>首先他是完全免费的，相较其他的同类产品，他能替你省下一笔服务费，节约下的钱可以让你买一些其他的会员服务；</li>
+<li>无须自己购买云服务进行搭建，只需按步骤一步步操作即可，即使你不懂他的技术细节；</li>
+<li>支持的功能多，玩法丰富，你可以绑定你的域名、使用免费的 HTTPS、自己 DIY 网站的主题、使用他人开发好的插件等等；</li>
+<li>当完成搭建后，你只需要专注于文章创作就可以了，其他诸如环境搭建、系统维护、文件存储的事情一概不用操心，都由 GitHub 处理</li>
+</ul>
+<p>当然了，作为一款免费的服务，我们也是要遵守 GitHub 官方使用建议和限制，在使用的时候项目和网站的大小不要超过 1GB，也不要过于频繁的更新网站的内容（每小时不超过 10 个版本），每个月的也要注意带宽使用上限为 100GB。</p>
+<p>综合来看，GitHub Pages 依旧可以说是中小型博客或项目主页的最佳选项之一。</p>
+<hr>
 ]]></content>
     </entry>
     <entry>
