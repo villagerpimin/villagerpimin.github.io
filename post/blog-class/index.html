@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://villagerpimin.github.io/favicon.ico?v=1592927547048">
+<link rel="shortcut icon" href="https://villagerpimin.github.io/favicon.ico?v=1592974626814">
 <link rel="stylesheet" href="https://villagerpimin.github.io/styles/main.css">
 
 
@@ -34,7 +34,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://villagerpimin.github.io">
-        <img src="https://villagerpimin.github.io/images/avatar.png?v=1592927547048" class="site-logo">
+        <img src="https://villagerpimin.github.io/images/avatar.png?v=1592974626814" class="site-logo">
         <h1 class="site-title">Pimin&#39;s Blog</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -114,10 +114,10 @@
 <p>当然了，作为一款免费的服务，我们也是要遵守 GitHub 官方使用建议和限制，在使用的时候项目和网站的大小不要超过 1GB，也不要过于频繁的更新网站的内容（每小时不超过 10 个版本），每个月的也要注意带宽使用上限为 100GB。</p>
 <p>综合来看，GitHub Pages 依旧可以说是中小型博客或项目主页的最佳选项之一。</p>
 <hr>
-<p>#如何使用 GitHub pages<br>
-下面就具体来谈谈如何使用它。</p>
-<p>##基本页面的生成<br>
-首先你需要注册一个 GitHub 账号，并在个人主界面里选择创建一个新的 Repository 。<br>
+<h1 id="如何使用-github-pages">如何使用 GitHub pages</h1>
+<p>下面就具体来谈谈如何使用它。</p>
+<h2 id="基本页面的生成">基本页面的生成</h2>
+<p>首先你需要注册一个 GitHub 账号，并在个人主界面里选择创建一个新的 Repository 。<br>
 <img src="https://cdn.sspai.com/20190506142539.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="reg1" loading="lazy"><br>
 进入页面后，在 Repository name 的位置填写域名，格式是 username.GitHub.io。<br>
 *<em>username为GitHub中的使用者名称，不要随意更改</em> *<br>
@@ -138,7 +138,7 @@
 <img src="https://cdn.sspai.com/20190506143603.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="reg9" loading="lazy"></p>
 <p>如果你想做一个功能更丰富的博客，那我们继续往下走。</p>
 <hr>
-<p>#配置自定义域名并免费使用 HTTPS</p>
+<h1 id="配置自定义域名并免费使用-https">配置自定义域名并免费使用 HTTPS</h1>
 <p>在 2018 年 5 月 1 日之后，GitHub Pages 已经开始提供免费为自定义域名开启 HTTPS 的功能，并且大大简化了操作的流程，现在用户已经不再需要自己提供证书，只需要将自己的域名使用 CNAME 的方式指向自己的 GitHub Pages 域名即可。</p>
 <p>首先在你的 DNS 解析里添加一条解析记录，例如我选择添加子域名 <code>blog.moyu.life</code> 通过 CNAME 的方式指向我刚刚自定义的 GitHub Pages 域名 <code>brick713.GitHub.io</code>。添加完成后等待 DNS 解析的生效（DNS 的解析记录生效到全球可能需要几分钟时间）。<br>
 <img src="https://cdn.sspai.com/20190508161054.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="img1" loading="lazy"></p>
@@ -149,7 +149,7 @@
 <p>现在我们再访问 blog.moyu.life 就会发现，我们的自定义域名和 HTTPS 都生效了！可以看到证书是由著名的机构 Let's Encrypt 提供的。<br>
 <img src="https://cdn.sspai.com/20190508161133.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="img4" loading="lazy"></p>
 <hr>
-<p>#网站的同步</p>
+<h1 id="网站的同步">网站的同步</h1>
 <p>现在我们已经有了一个基本功能健全的网站了，接下来我们需要试着对博客的内容进行管理，并且给博客添加一些更个性化的设置，官方提供两种方式：</p>
 <ul>
 <li>命令行方式（Mac 和 Windows 确保拥有 Git 环境）</li>
@@ -186,7 +186,7 @@ git config user.name &quot;你的用户名&quot;
 <img src="https://cdn.sspai.com/20190508161353.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="img11" loading="lazy"></p>
 <p>然后你发现你的主页也发生了相应改变了。到这里你基本上就掌握了网站管理的基本流程和文章发布的基本流程，下面我们要开始来学会使用静态模板系统来管理博客了。</p>
 <hr>
-<p>#GitHub Pages 的生成工具</p>
+<h1 id="github-pages-的生成工具">GitHub Pages 的生成工具</h1>
 <p>经历了上面的步骤，现在你的已经有了一个简单的页面了，可是他还远远未满足我们的需求，我们需要利用静态模板系统来让生产接管你博客的文章的生成，让你把更多的经历投入在创作里。下面就 GitHub 官方推荐的 Jekyll 为例子来展开讲讲。</p>
 <p>因为 Jekyll 是基于 Ruby 的静态网页生成系统，因此我们首先得安装 Ruby 环境，在 Mac 下我们可以使用的 Homebrew 来进行安装。如果是其他操作系统，可以去参考 Ruby 官方安装文档进行安装。</p>
 <p><code>brew install ruby</code></p>
